@@ -1,6 +1,14 @@
+.text-grey {
+    
+    padding-top: 5px;
+}
 
-
-
+.text-header{
+    margin-top: 5px;
+}
+.text-grey{
+    color:grey;
+}
 .row-space-top{
     margin-top: 65px;
 }
