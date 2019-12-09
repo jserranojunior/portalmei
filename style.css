@@ -44,5 +44,9 @@
     }
     .text-center-sm{
         text-align: center! important;
-    }
+    }   
  }
+
+ .text-right-md{
+    text-align: right! important;
+}
